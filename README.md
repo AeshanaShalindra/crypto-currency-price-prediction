@@ -15,6 +15,7 @@ The classifier_trainer file contains the training and testing components for ML 
 2. Add your twitter developer account keys to btc-tweet-1.py file
 
 3. Run the python scripts in the following order
+
 eg:- selected BTC
 btc-tweet-1  (gathers tweets for today)
 btc-categorize-2 (categorises tweets in to the 5 categories)
@@ -23,7 +24,7 @@ btc-combine-4 (normalizes the scores)
 btc-prediction-5 (gives price prediction)
 btc-prediction-binary-6 (gives increase or decrease signals)
 
-4. Check the outputs in the "Outputs file"
+5. Check the outputs in the "Outputs file"
 
 Please find the complete article about this in 
 https://medium.com/@aeshanashalindra/how-can-machine-learning-help-us-predict-financial-markets-9afd282e0624
