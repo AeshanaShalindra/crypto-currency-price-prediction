@@ -34,10 +34,10 @@ import time
 pytrends = TrendReq(hl='en-US', tz=360)
 
 
-consumer_key = "dedrHMOrLegD5oejTi6DHvQed"
-consumer_secret = "NBGs0OGOZSsIhxmE2uos5iArsBmimXbLOwSBJvp95ITgq9enk7"
-access_token = "124969809-oaUqb6lKSvL0K2fP7lCrmczO3FpV9VDlgvwYNLOR"
-access_token_secret = "lTATN5CiRNTpidANEW059P47y4XuMnPk2LYfcf50oSKI4"
+consumer_key = #add consumer key
+consumer_secret = #add secret key
+access_token = #add access token
+access_token_secret = #add secret token
 
 # Creating the authentication object
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
